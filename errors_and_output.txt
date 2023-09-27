@@ -1,0 +1,4 @@
+  File "C:\Users\Antho\temp.py", line 49
+    continue
+    ^^^^^^^^
+SyntaxError: 'continue' not properly in loop
