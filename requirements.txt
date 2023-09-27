@@ -1,0 +1,1 @@
+['requests', 'nltk', 'json', 'random', 'openai']
